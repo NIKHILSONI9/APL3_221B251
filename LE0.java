@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Nirmal
+public class Nikhil
 {
     int age;
     String name;
@@ -24,8 +24,8 @@ public class Nirmal
     {
         Nirmal n=new Nirmal();
         //n-> reference variable
-        n.setName("Nirmal Singh");
-        n.setAge(23);
+        n.setName("Nikhil Soni");
+        n.setAge(20);
         
         System.out.println(n.getName()+" "+n.getAge());
     }
